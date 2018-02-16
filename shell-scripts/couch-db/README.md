@@ -28,12 +28,12 @@ For more options, run :
 
   Specify (Optional) a protocol e.g. http or https like  *./couch_migrate.sh -proto <protocol>*
 
-  Specify (Optional) a HTTB VERB or method e.g. PUT, POST(default) like \033[33m ./couch_migrate.sh -method <http verb>\033[0m
+  Specify (Optional) a HTTB VERB or method e.g. PUT, POST(default) like *./couch_migrate.sh -method <http verb>*
 
   Specify (Optional) any multiple arguments like  *./couch_migrate.sh -u <username> -pwd <password> -d <database name>*
 
 For Authentication you can choose to pass the username and password as part of the host 
-e.g.  **./couch_migrate.sh -h http://<username>:<password>@<hostname>**
+e.g.  **./couch_migrate.sh -h http://USERNAME:PASSWORD@HOSTNAME**
 
 Have a nice day! :)
    
