@@ -32,7 +32,7 @@ For more options, run :
 
   Specify (Optional) any multiple arguments like  `./couch_migrate.sh -u <username> -pwd <password> -d <database name>`
 
-For Authentication you can choose to pass the username and password as part of the host 
+For Authentication you can choose to pass the username and password as part of the host\
 e.g.  `./couch_migrate.sh -h http://<username>:<password>@<hostname>`
 
 Have a nice day! :)
